@@ -21,3 +21,8 @@
 !resources/StoneTileBackground.jpg
 !resources/trapdoor.png
 !resources/WIZZARD.png
+
+# include dr dungeon
+!drdungeon/
+!drdungeon/faq.html
+!drdungeon/banner.jpg
