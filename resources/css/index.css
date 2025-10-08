@@ -1,0 +1,49 @@
+* {
+	font-family: Helvetica, Arial, sans-serif;
+	background-image: '../StoneTileBackground.jpg';
+}
+ 
+body {
+	background-image: url("../StoneTileBackground.jpg") !important;
+	background-size: 400px;
+	
+}
+ 
+h1 {
+  color: SeaGreen;
+  background-color: white;
+  text-align: center;
+}
+
+p, 
+li {
+  font-size: 18px;
+  color: white;
+  background-color: gray;
+/*  background-color: SaddleBrown; */
+}
+ 
+ 
+a {
+  text-decoration: none;
+  color: CornflowerBlue !important;
+}
+
+.header {
+	text-align: right;
+}
+
+.banner {
+	color: SeaGreen;
+	background-color: white;
+	font-size: 30px;
+	opacity: 0.8;
+}
+
+.warning{
+	text-align: center;
+	font-size: 50px;
+	font-family: serif;
+	color: black;
+	background-color: gray;
+}
