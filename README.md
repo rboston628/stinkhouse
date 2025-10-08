@@ -1,2 +1,0 @@
-# stinkhouse
-Stinkhouse Games website
