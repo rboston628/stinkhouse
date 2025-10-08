@@ -1,0 +1,23 @@
+## IGNORE EVERYTHING -- MANUALL INCLUDE INSTEAD
+*
+
+## EXCEPTIONS
+!.gitignore
+
+# basic web pages
+!index.html
+!home.html
+!about.html
+!wizzard.html
+
+# the resources folder
+!resources/
+!resources/css/
+!resources/css/index.css
+!resources/logos/
+!resources/logos/*.png
+!resources/Devils_Pot_Pass.png
+!resources/dooropen.wav
+!resources/StoneTileBackground.jpg
+!resources/trapdoor.png
+!resources/WIZZARD.png
